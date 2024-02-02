@@ -1,6 +1,6 @@
 # Car Value Evaluation Model
  
-1. Introduction
+ # 1.Introduction
 The global used car market is valued at over $1 trillion. My project aims to provide clarity and direction in this market by evaluating car values using a dataset that grades cars based on various attributes.
 
 
